@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "pmjbuSnsXI3cij2p6nR_QhvLKTg",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "COnLOsHuvz7kM42feMU3JzzpR74",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-06T02:36:43Z",
+        "channelId": "UCvc8kv-i5fvFTJBFAk6n1SA",
+        "title": "JavaScript 입문 수업 (생활코딩)",
+        "description": "본 모듈은 자바스크립트 언어에 대한 기초 수업입니다. 텍스트 수업과 동영상 수업이 함께 제공 됩니다. 텍스트만으로도 완주 하실 수 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PZIPsKgWJiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PZIPsKgWJiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PZIPsKgWJiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "생활코딩",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-06T02:36:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZAHNrgG1nTZk26KqRRM1YWVhkkQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W6NZfCO5SIk"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-24T02:37:33Z",
+        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "title": "JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour",
+        "description": "Watch this JavaScript tutorial for beginners to learn JavaScript basics in one hour. Want to master JavaScript? Get my complete ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W6NZfCO5SIk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W6NZfCO5SIk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programming with Mosh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-24T02:37:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J3yPQN95mQq8PpjOIHNvVVu-V_0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PkZNo7MFNFg"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-10T14:13:40Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Learn JavaScript - Full Course for Beginners",
+        "description": "This complete 134-part JavaScript tutorial for beginners will teach you everything you need to know to get started with the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PkZNo7MFNFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PkZNo7MFNFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-10T14:13:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h-xzJbcP3NW0wCX5ygrQEoAjtjM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jS4aFq5-91M"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-21T16:42:15Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "JavaScript Programming - Full Course",
+        "description": "Learn JavaScript from scratch by solving over a hundred different coding challenges. Go here for the interactive browser version: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jS4aFq5-91M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jS4aFq5-91M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jS4aFq5-91M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-21T16:42:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hz5Vn9GR2rUXBQyVQBi9z11csMY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KF6t61yuPCY"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-04T14:28:29Z",
+        "channelId": "UCxft4RZ8lrK_BdPNz8NOP7Q",
+        "title": "자바스크립트 기초 강좌 : 100분 완성",
+        "description": "안녕하세요. 코딩앙마 입니다 :) 자바스크립트 기초 강좌를 하나의 영상으로 만들었습니다. 프로그래밍 경력이 없어도 됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KF6t61yuPCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KF6t61yuPCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KF6t61yuPCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코딩앙마",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-04T14:28:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lmNo6hwc_k_VLUvRPlmYSXUBAvs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RHoPpjKRT38"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-01T10:46:40Z",
+        "channelId": "UC2nkWbaJt1KQDi2r2XclzTQ",
+        "title": "제대로 파는 자바스크립트 - JavaScript 끝.장.내.기",
+        "description": "자바스크립트 #javascript #강좌 [전체강의 링크 & 대학생 반값할인 ] 1. 전체 강의(약 12.5시간) 수강하기 아래 링크에서 유료 파트가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RHoPpjKRT38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RHoPpjKRT38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RHoPpjKRT38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "얄팍한 코딩사전",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-01T10:46:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gDLg0I6UoQrAiVEWbjF7bEE_6EE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DHjqpvDnNGE"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-13T17:56:13Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "JavaScript in 100 Seconds",
+        "description": "JavaScript is the the programming language that built the web. Learn how it evolved into a powerful tool for building websites, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DHjqpvDnNGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DHjqpvDnNGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DHjqpvDnNGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fireship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-13T17:56:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jYbn8qqfNe2r74_lu7mY8k3YCzo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E-PzX2mKGUQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-22T01:00:05Z",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "title": "자바스크립트 기초 입문 강의 30분 완성",
+        "description": "이번 영상은 웹 개발 5주 완성 라이브 강의 편집본으로 JavaScript 기초, 변수, 조건문, 반복문, 함수를 배우는 강의입니다. 5주만에 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E-PzX2mKGUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E-PzX2mKGUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E-PzX2mKGUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "조코딩 JoCoding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-22T01:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fD7S6Z3uN2Evn2CGqQ6GwiQVn0U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aS39t5ITnbI"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-16T19:20:50Z",
+        "channelId": "UCJdzLgomDYH6_tZpxRKUMQw",
+        "title": "Próbowałem nauczyć się JavaScript w 7 dni",
+        "description": "W tym filmiku, spróbuję nauczyć się JavaScript w 7 dni. Oglądajcie do końca bo będę rozmawiał z dwoma doświadczonymi ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aS39t5ITnbI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aS39t5ITnbI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aS39t5ITnbI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PuszkaTech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-16T19:20:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "61V67y3y4sYB17bdqhuCQokyAko",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-14T12:51:40Z",
+        "channelId": "UCeVMnSShP_Iviwkknt83cww",
+        "title": "JavaScript Tutorials for Beginners in Hindi",
+        "description": "JavaScript Course in Hindi: This Javascript tutorial in Hindi course is designed for beginners with an aim to take JavaScript/ES6 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ER9SspLe4Hg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ER9SspLe4Hg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ER9SspLe4Hg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CodeWithHarry",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-14T12:51:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "foRRc2aVQ0s2MPHYQ_gB05bI5Pg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lkIFF4maKMU"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-22T15:04:57Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "100+ JavaScript Concepts you Need to Know",
+        "description": "The ultimate 10 minute JavaScript course that quickly breaks down over 100 key concepts every web developer should know.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lkIFF4maKMU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lkIFF4maKMU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lkIFF4maKMU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fireship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-22T15:04:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RIZrCwWI-vD80v_SlgIHHH2DpBw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "quJzdnXuNDc"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-23T17:31:44Z",
+        "channelId": "UCZ9qFEC82qM6Pk-54Q4TVWA",
+        "title": "How to Learn Javascript in 2023 (From ZERO)",
+        "description": "Is Javascript the programming language you are 100% set on learning? This video lays out a complete strategy for how to learn it ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/quJzdnXuNDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/quJzdnXuNDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/quJzdnXuNDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Andy Sterkowitz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-23T17:31:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JAvGjHMyEar_7MM-EUwkcTbCNz4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lI1ae4REbFM"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-30T16:00:11Z",
+        "channelId": "UCqrILQNl5Ed9Dz6CGMyvMTQ",
+        "title": "JavaScript Tutorial for Beginners - Full Course in 12 Hours (2022)",
+        "description": "FORK THIS REPL https://join.replit.com/cp-javascript GET THE FREE COURSE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lI1ae4REbFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lI1ae4REbFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lI1ae4REbFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clever Programmer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-30T16:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qf6ZqCInxm30QXxwMHWX9-Q5hB0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dHrI-_xq1Vo"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-13T05:30:36Z",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "title": "객체지향 Class 문법 10분만에 이해시켜줌 (자바스크립트)",
+        "description": "책펴면 300페이지 쯤에 나오는 무시무시한 class, 객체지향 oop 어쩌구 문법입니다. 이론만 공부하는게 아니라 어떨 때 써야하는지를 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dHrI-_xq1Vo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dHrI-_xq1Vo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dHrI-_xq1Vo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코딩애플",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-13T05:30:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LnOyfNGc__2Ok_OFA2u5BbpncFQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8dWL3wF_OMw"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-05T16:39:40Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript Full Course for free 🌐 (2023)",
+        "description": "JavaScript #tutorial #beginners JavaScript tutorial for beginners full course ⭐️Time Stamps⭐️ #1 (00:00:00) JavaScript tutorial ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8dWL3wF_OMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8dWL3wF_OMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8dWL3wF_OMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bro Code",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-05T16:39:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m-D_O5kBmrM5mPeGTgh5PvTarLk",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL_-VfJajZj0VgpFpEVFzS5Z-lkXtBe-x5"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-08T04:07:46Z",
+        "channelId": "UCNSCWwgW-rwmoE3Yc4WmJhw",
+        "title": "Javascript Cơ Bản",
+        "description": "Học Javascript cơ bản phù hợp cho người chưa từng học lập trình. Với hơn 100 bài học và có bài tập thực hành sau mỗi bài học.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0SJE9dYdpps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0SJE9dYdpps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0SJE9dYdpps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "F8 Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-08T04:07:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dJZoNHtI_qbxod21yudOAvZ6gzY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z2Cu7gPMq0w"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-31T09:00:08Z",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "title": "(ENG SUB)[Javascript 기초와 활용 #1]  완전 쉬운 jQuery로 스타크래프트 만들기?!",
+        "description": "이번 영상은 Javascript의 기본 개념 및 활용 분야에 대해 배워보고 가장 중요한 개념인 함수를 배우고 이를 활용해 스타크래프트 예제 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z2Cu7gPMq0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z2Cu7gPMq0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z2Cu7gPMq0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "조코딩 JoCoding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-31T09:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xO_LkBIjMJHfz5U-044RGqktyd8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cYNVVspXUdA"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-03T12:00:31Z",
+        "channelId": "UCcJQ96WlEhJ0Ve0SLmU310Q",
+        "title": "How I Would Learn Javascript FAST in 2023 (from zero)",
+        "description": "Sign up to Morning Brew for free today at https://morningbrewdaily.com/internetmadecoder In this video we learn how to learn ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cYNVVspXUdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cYNVVspXUdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cYNVVspXUdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Internet Made Coder",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-03T12:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xS0OEimDF3S0fyD0dCuvYd3LOU0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DqaTKBU9TZk"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-28T23:50:07Z",
+        "channelId": "UCB6dvaWu0N8uVq2yKsZ5s5g",
+        "title": "BEST JavaScript Tutorial for Beginners for Getting a Job 2021 (High Quality, Project Based Course)",
+        "description": "Build a full app in this JavaScript tutorial, designed to help new programmers get into the tech industry. Exercises, code ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DqaTKBU9TZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DqaTKBU9TZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DqaTKBU9TZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SuperSimpleDev",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-28T23:50:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X3qnZaKW4zXzYoAuq33mrRwspfo",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-26T15:43:30Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn JavaScript in Arabic 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GM6dQBmc-Xg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GM6dQBmc-Xg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GM6dQBmc-Xg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-26T15:43:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sufqVYZ42_sbzSFd3TENkYBbjiw",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-01T05:52:36Z",
+        "channelId": "UCbQh1yxBPVhyjB-G_blFFEQ",
+        "title": "كورس جافا سكريبت كامل | Javascript Tutorial",
+        "description": "اذا كنت من محبي البرمجة فحتماً قد وقع نظرك على لغة javascript او المعروفة بلغة js لكن هل تملك المعلومات الكافية عنها؟! تعتبر لغة ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PWuTLTFMtYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PWuTLTFMtYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PWuTLTFMtYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Abdelrahman Gamal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-01T05:52:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dg4OJhhqyq9xt4XxMW6dmIYMVlw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4_WLS9Lj6n4"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-23T12:53:57Z",
+        "channelId": "UCxft4RZ8lrK_BdPNz8NOP7Q",
+        "title": "자바스크립트 중급 강좌 : 140분 완성",
+        "description": "안녕하세요. 코딩앙마 입니다 :) 자바스크립트 중급 강좌도 하나의 영상으로 만들어 달라는 요청이 있어서 제작하게 되었습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4_WLS9Lj6n4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4_WLS9Lj6n4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4_WLS9Lj6n4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코딩앙마",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-23T12:53:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dZ15Z3XmGGZ_F7uEbYCaAyj6Gjc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hdI2bqOjy3c"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-13T15:46:32Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "JavaScript Crash Course For Beginners",
+        "description": "In this crash course we will go over the fundamentals of JavaScript including more modern syntax like classes, arrow functions, etc ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hdI2bqOjy3c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hdI2bqOjy3c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hdI2bqOjy3c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-13T15:46:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4TU8As0Sndi9gHghlr8dxG3CuSA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aXOChLn5ZdQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-24T16:00:11Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "JavaScript for the Haters",
+        "description": "Why does everybody hate JavaScript so much? A complete roast of JS that highlights the strongest criticisms against the world's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aXOChLn5ZdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aXOChLn5ZdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aXOChLn5ZdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fireship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-24T16:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KGHbf90qWmHiUc0_fSXmDigk2X8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I2_pDnV5CSw"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-28T10:36:57Z",
+        "channelId": "UCjYKAv4bWRPhtbZu_4EZPYQ",
+        "title": "javascript хичээл - 01",
+        "description": "javascript game engine from scratch. Хандивийн данс: Банк: Худалдаа хөгжлийн банк Нэр: Батхишиг Дугаар: 499 230 368 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I2_pDnV5CSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I2_pDnV5CSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I2_pDnV5CSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "je3f0o",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-28T10:36:57Z"
+      }
+    }
+  ]
+}
